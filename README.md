@@ -1,4 +1,4 @@
-# Passanger-crew-system-SLinkedList
+# Passenger-crew-system-SLinkedList
 
 an airline management system to manage passengers and
 cabin crews; the system organizes data into 4 main singly linked lists economy, economy-premium,
